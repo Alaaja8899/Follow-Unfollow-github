@@ -19,7 +19,7 @@ Before using these scripts, ensure you have:
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone [<repository-url>](https://github.com/Alaaja8899/Follow-Unfollow-github.git)
+   git clone https://github.com/Alaaja8899/Follow-Unfollow-github.git
    cd Follow-Unfollow-github
    ```
 
